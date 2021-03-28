@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: dataSampleProject
+# datasources:
+#   default:
+#     jdbcUrl: jdbc:postgresql://localhost:5433/adpdc_oltp?currentSchema=adpidmcore10_oltp
+#     driverClassName: org.postgresql.ds.PGSimpleDataSource
+#     username: postgres
+#     password: postgres
+#     dialect:  POSTGRES
